@@ -1403,7 +1403,7 @@ const properties = {
     linkedin: "https://www.linkedin.com/in/simonbernard94/",
     malt: "https://www.malt.fr",
     fiverr: "https://www.fiverr.com/",
-    github: "https://github.com/simflouzz59"
+    github: "https://github.com/simonbe94"
 };
 
 
