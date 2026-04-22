@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simnbernard.github.io/sitemap.xml
