@@ -39,7 +39,7 @@ const th = {"la":"TH","co":"การดำเนินการต่อใน�
         window.__currentLang = lang;
 
         // Swap hero background per language
-        const bgMap = { fr: '/img/bg-fr.jpeg', en: '/img/bg-en.jpg', th: '/img/bg-th.jpeg' };
+        const bgMap = { fr: '/img/bg-fr.jpeg', en: '/img/bg-en.jpeg', th: '/img/bg-th.jpeg' };
         const heroSection = document.querySelector('.hero-section');
         if (heroSection && bgMap[lang]) {
           heroSection.style.backgroundImage = "url('" + bgMap[lang] + "')";
